@@ -1,0 +1,16 @@
+# backend/urls.txt
+https://www.argentina.gob.ar/miargentina
+https://lncargentina.seguridadvial.gob.ar/
+https://boletadepago.seguridadvial.gob.ar/
+https://capacitacion.seguridadvial.gob.ar/
+https://consultainfracciones.seguridadvial.gob.ar/  
+https://certificados.seguridadvial.gob.ar/
+https://consultas.seguridadvial.gob.ar/ 
+https://www.argentina.gob.ar/seguridadvial/licencianacional
+https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-de-prestadores-medicos
+https://www.argentina.gob.ar/servicio/inscripcion-en-el-registro-de-prestadores-de-capacitacion-para-el-transporte-de-cargas
+https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-de-prestadores-de-capacitacion-para-el-transporte-de-mercancias
+https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-de-profesionales-medicos-para-la-realizacion-del-examen
+https://www.argentina.gob.ar/servicio/inscribirse-como-escuela-de-seguridad-vial-para-licencias-categoria-particular-clases-b-y-g
+https://docs.google.com/forms/d/15bHslkKMd0_362QiFX6a7phtOP1R1dU5mqptbyEmO-A/edit
+https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-legalidad-de-la-licencia-de-conducir
