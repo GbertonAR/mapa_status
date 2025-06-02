@@ -3,7 +3,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, JSONResponse
 from checker import check_status, load_urls
-import uvicorn
+#import uvicorn
 
 app = FastAPI()
 
